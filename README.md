@@ -1,8 +1,1 @@
-**Problem Statement Number**: CBP16
-**Problem Statement**: Optimizing doctor availability and appointment allocation in hospitals through digital technology and AI integration.
-**Project Detail and Idea**: 
-A web based application that overcomes the issue of managing and booking appointments according to patients's requirements. 
-We will be differentiating the patients on the basis of their urgency. And according to the needs of the patient there will be an option for directly interacting with the doctor.
-The task sometimes becomes very tedious for the compounder or doctor himself in manually allotting appointments for the users as per their availability.
-Hence this project offers an effective solution where patients can view various booking slots available and select the preferred date and time.
-The appointments will be saved in the backend, so that if any further issue arises in the future the diagnosis would be easier.
+
