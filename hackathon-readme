@@ -6,4 +6,4 @@ We will be differentiating the patients on the basis of their urgency. And accor
 The task sometimes becomes very tedious for the compounder or doctor himself in manually allotting appointments for the users as per their availability.
 Hence this project offers an effective solution where patients can view various booking slots available and select the preferred date and time.
 The appointments will be saved in the backend, so that if any further issue arises in the future the diagnosis would be easier.
-
+Patients can also search the doctor on the basis of their reviews given by other patients.
